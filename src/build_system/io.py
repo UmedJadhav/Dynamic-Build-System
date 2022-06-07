@@ -3,7 +3,7 @@ import os
 import struct
 import time
 
-# Experimental inotify support for the sake of illustration.
+# Experimental inotify support
 
 IN_MODIFY = 0x02
 _libc = None
